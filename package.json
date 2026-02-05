@@ -1,0 +1,12 @@
+{
+  "name": "github-workflow-test",
+  "version": "0.1.0",
+  "description": "Test repository for GitHub workflow with Antigravity AI",
+  "scripts": {
+    "dev": "echo 'Development server would start here'",
+    "build": "echo 'Build would run here'",
+    "test": "echo 'Tests would run here'"
+  },
+  "author": "Arusasaki",
+  "license": "MIT"
+}
